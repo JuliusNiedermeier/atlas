@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b20339c7-c2dd-4e65-b33b-edd1812971fd"
+      }
+    },
+    "owner": "juliusniedermeier"
   }
 }
